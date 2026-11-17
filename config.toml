@@ -1,0 +1,5 @@
+[server]
+maxUploadSize = 500   # MB; LiDAR GeoTIFFs can be large
+
+[browser]
+gatherUsageStats = false

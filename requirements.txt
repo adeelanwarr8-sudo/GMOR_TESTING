@@ -4,6 +4,7 @@ folium>=0.15
 plotly
 pandas
 numpy
+scipy
 openpyxl
 earthengine-api
 geopandas
@@ -11,3 +12,4 @@ pyogrio
 shapely>=2.0
 pyproj
 rasterio
+pysheds
