@@ -1,0 +1,13 @@
+streamlit>=1.40
+streamlit-folium
+folium>=0.15
+plotly
+pandas
+numpy
+openpyxl
+earthengine-api
+geopandas
+pyogrio
+shapely>=2.0
+pyproj
+rasterio
